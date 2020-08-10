@@ -16,13 +16,13 @@ COVID19에 대응하여 질병예방본부가 권장하는 예방대책 중
 4) DENTHDEPTH OPEN SOURCE : 단일 이미지 깊이 추정을 위한 오픈소스 모델
 
 ## 모델 상세 설명
-1) DONT
-![image](https://user-images.githubusercontent.com/55820227/89745880-7b5eb800-daf1-11ea-8785-7b6c4f551561.png)
+1) DONT   
+![image](https://user-images.githubusercontent.com/55820227/89745880-7b5eb800-daf1-11ea-8785-7b6c4f551561.png)   
 ![image](https://user-images.githubusercontent.com/55820227/89745907-9af5e080-daf1-11ea-94f3-0a0b11fa4400.png)
-
-2) DENTHDEPTH & FACE CROP
-![image](https://user-images.githubusercontent.com/55820227/89745929-b8c34580-daf1-11ea-937e-c9a60d042590.png)
-![image](https://user-images.githubusercontent.com/55820227/89745948-d4c6e700-daf1-11ea-887a-744dcc591e7b.png)
-
-3) MASK DETECTION
-![image](https://user-images.githubusercontent.com/55820227/89745960-e90ae400-daf1-11ea-9c03-e1f7aaeab45a.png)
+   
+2) DENTHDEPTH & FACE CROP   
+![image](https://user-images.githubusercontent.com/55820227/89745929-b8c34580-daf1-11ea-937e-c9a60d042590.png)   
+![image](https://user-images.githubusercontent.com/55820227/89745948-d4c6e700-daf1-11ea-887a-744dcc591e7b.png)   
+   
+3) MASK DETECTION   
+![image](https://user-images.githubusercontent.com/55820227/89745960-e90ae400-daf1-11ea-9c03-e1f7aaeab45a.png)   
